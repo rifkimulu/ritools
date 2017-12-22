@@ -190,8 +190,8 @@ const Excute = async function(User, TargetUsername, Text, Sleep){
 
 console.log(chalk`
 {bold Instagram FLMT Auto Comment, Auto Like, Auto Follow}
-{green BC0DE.NET - NAONLAH.NET - WingKocoli}
-{bold.red Code By Ccocot | ccocot@bc0de.net}
+{red RIFKIMULU.NET - NAONLAH.NET - KIBOKTOOLS}
+{bold.red Code By Kibok | kibok@priv.net}
 `);
 
 inquirer.prompt(User)
